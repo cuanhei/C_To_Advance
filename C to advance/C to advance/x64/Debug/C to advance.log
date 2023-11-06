@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\User\Desktop\C to advance\C to advance\ToDoList.h(25,6): warning C4101: 'i': unreferenced local variable
+C:\Users\User\Desktop\C to advance\C to advance\encrypt.h(38,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\User\Desktop\C to advance\C to advance\encrypt.h(93,12): warning C4101: 'y': unreferenced local variable
+C:\Users\User\Desktop\C to advance\C to advance\banksystem.h(240,9): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\C to advance\C to advance\banksystem.h(261,9): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  C to advance.vcxproj -> C:\Users\User\Desktop\C to advance\x64\Debug\C to advance.exe
