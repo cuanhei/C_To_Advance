@@ -29,5 +29,5 @@ There are 10 question given from Chat GPT to train your programming skill in C l
 9. Database Management System:
    Create a simple database management system that supports basic operations like insertion, deletion, and querying.
 
-10.Web Server:
+10. Web Server:
    Build a basic HTTP server that can handle simple requests. This project will give you insights into networking and server-side programming.
