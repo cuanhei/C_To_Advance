@@ -8,17 +8,20 @@
 #include "ToDoList.h"
 #include "encrypt.h"
 #include "banksystem.h"
+#include "shell.h"
 #pragma warning (disable:4996)
 
 //#define CALCULATOR
 //#define TODOLIST
 //#define ENCRYPT
-#define BANKSYSTEM
+//#define BANKSYSTEM
+#define SHELL
+
 
 void main() {
 
 #ifdef CALCULATOR
-			main_calculator();
+			calculator_main();
 #endif	
 	
 #ifdef TODOLIST
@@ -30,7 +33,11 @@ void main() {
 #endif
 
 #ifdef BANKSYSTEM
-			bankSystemMain();
+			bank_system_main();
+#endif
+
+#ifdef SHELL
+			shell_main();
 #endif
 }
 
