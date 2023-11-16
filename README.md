@@ -1,4 +1,5 @@
-# C_To_Advance
+# C_To_Advance  
+( Incomplete )
 
 There are 10 question given from Chat GPT to train your programming skill in C language
 
